@@ -54,6 +54,11 @@ if { [string first $scripts_vivado_version $current_vivado_version] == -1 } {
 # project, but make sure you do not have an existing project
 # <./myproj/project_1.xpr> in the current working folder.
 
+# Please add the sources of those modules before sourcing this Tcl script.
+file mkdir ../Hardware/pl_basex_2_5g_hw/pl_basex_2_5g.ipdefs/ 
+file copy -force ../Hardware/axi_ethernet/axi_ethernet_buffer_v2_0 ../Hardware/pl_basex_2_5g_hw/pl_basex_2_5g.ipdefs/ 
+file copy -force ../Hardware/axi_ethernet/axi_ethernet_v7_2 ../Hardware/pl_basex_2_5g_hw/pl_basex_2_5g.ipdefs/ 
+
 set list_projs [get_projects -quiet]
 if { $list_projs eq "" } {
    create_project project_1 myproj -part xcvc1902-vsva2197-2MP-e-S
