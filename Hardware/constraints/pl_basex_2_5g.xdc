@@ -37,6 +37,12 @@ set_property PACKAGE_PIN H41 [get_ports {gt_txp_out_0[2]}]
 set_property PACKAGE_PIN H42 [get_ports {gt_txn_out_0[2]}]
 ### GTREFCLK 0 ( Driven by SI570 )
 
+####SFP1
+set_property PACKAGE_PIN H46 [get_ports {gt_rxp_in_0[2]}]
+set_property PACKAGE_PIN H47 [get_ports {gt_rxn_in_0[2]}]
+set_property PACKAGE_PIN G43 [get_ports {gt_txp_out_0[2]}]
+set_property PACKAGE_PIN G44 [get_ports {gt_txn_out_0[2]}]
+
 ##### LED Outputs
 
 ####################################################################################
