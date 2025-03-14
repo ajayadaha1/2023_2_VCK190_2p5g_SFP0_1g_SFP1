@@ -47,7 +47,8 @@ if { [string first $scripts_vivado_version $current_vivado_version] == -1 } {
 # The design that will be created by this Tcl script contains the following 
 # module references:
 # rxcommaalignen_out_shifter, pma_reset_handler
-
+import_files -norecurse ../Hardware/commaalign/rxcommaalignen_out_shifter.v
+import_files -norecurse ../Hardware/pma_reset_handler.v
 # Please add the sources of those modules before sourcing this Tcl script.
 
 # If there is no project opened, this script will create a
