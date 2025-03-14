@@ -1,0 +1,23 @@
+[Crash Reporter] Started with processId = 1079792, at dir = '/group/techsup/ajayad/cases/current/VCK190-1g-2.5G/Versal-Ethernet/VCK190-Ethernet/2023.2/pl_basex_2_5g/Scripts', at time = Fri Mar 14 10:13:12 2025
+[Crash Reporter] Created Process registration file in crash store: /group/techsup/ajayad/cases/current/VCK190-1g-2.5G/Versal-Ethernet/VCK190-Ethernet/2023.2/pl_basex_2_5g/Scripts/.crashReporter/xsjapps57_1741972388_1079128/crashStore/processRegFile.txt
+[Crash Reporter] New process registration successfull for <hostname>:<pid> = xsjapps57:1079321
+[Crash Reporter] New process registration successfull for <hostname>:<pid> = xsjapps57:1785975
+[Crash Reporter] New process registration successfull for <hostname>:<pid> = xsjapps57:1811552
+[Crash Reporter] New process registration successfull for <hostname>:<pid> = xsjapps57:1811828
+[Crash Reporter] New process registration successfull for <hostname>:<pid> = xsjapps57:1812119
+[Crash Reporter] New process registration successfull for <hostname>:<pid> = xsjapps57:1812418
+[Crash Reporter] New process registration successfull for <hostname>:<pid> = xsjapps57:1964830
+[Crash Reporter] New process registration successfull for <hostname>:<pid> = xsjapps57:1988927
+[Crash Reporter] New process registration successfull for <hostname>:<pid> = xsjapps57:2028148
+[Crash Reporter] New process registration successfull for <hostname>:<pid> = xsjapps57:2037106
+[Crash Reporter] New process registration successfull for <hostname>:<pid> = xsjapps57:2037108
+[Crash Reporter] New process registration successfull for <hostname>:<pid> = xsjapps57:2037105
+[Crash Reporter] New process registration successfull for <hostname>:<pid> = xsjapps57:3430772
+[Crash Reporter] New process registration successfull for <hostname>:<pid> = xsjapps57:3457616
+[Crash Reporter] New process registration successfull for <hostname>:<pid> = xsjapps57:3457876
+[Crash Reporter] New process registration successfull for <hostname>:<pid> = xsjapps57:3458170
+[Crash Reporter] New process registration successfull for <hostname>:<pid> = xsjapps57:3458468
+[Crash Reporter] New process registration successfull for <hostname>:<pid> = xsjapps57:3546718
+[Crash Reporter] Crash Reporter exit condition met. No registered process is running and No pending crash report transmission.
+[Crash Reporter] Deleted crash store.
+[Crash Reporter] Exiting at Fri Mar 14 14:26:51 2025
